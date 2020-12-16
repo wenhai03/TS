@@ -1,9 +1,10 @@
 const enum Direction {
-    Up= "UP",
-    Down= "Down",
-    Left="Left",
-    Right=1
+  Up = "UP",
+  Down = "Down",
+  Left = "Left",
+  Right = 1
 }
+
 console.log('Direction -> ', Direction.Right)
 
 console.log('Direction -> ', Direction['Right'])
