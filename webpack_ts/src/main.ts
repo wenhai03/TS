@@ -1,3 +1,3 @@
-import './01_基础类型'
+import './02_多个泛型参数的函数'
 
 document.write('Hello Vue3')

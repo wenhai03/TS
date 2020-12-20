@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="061d5262-3f55-496b-8a4c-7e2336d21174" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/02TS_Part/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02TS_Part/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02TS_Part/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack_ts/src/02_多个泛型参数的函数.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack_ts/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webpack_ts/src/main.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="JavaScript File" />
+        <option value="tsconfig.json" />
+        <option value="TypeScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lH9oNKnMIjfCkElTxdwebdjPde" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/02TS_Part" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/webpack_ts/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/02TS_Part" />
+      <recent name="$PROJECT_DIR$/01TS_REACT/config" />
+      <recent name="$PROJECT_DIR$/webpack_ts/src" />
+      <recent name="$PROJECT_DIR$/webpack_ts" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="默认参数.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
+      <module name="TS" />
+      <option name="interpreterRef" value="project" />
+      <option name="interpreterOptions" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/function" />
+      <option name="tsconfigFile" value="" />
+      <option name="extraTypeScriptOptions" value="" />
+      <option name="scriptName" value="$PROJECT_DIR$/function/默认参数.ts" />
+      <option name="programParameters" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="泛型继承.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
+      <module name="TS" />
+      <option name="interpreterRef" value="project" />
+      <option name="interpreterOptions" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/泛型" />
+      <option name="tsconfigFile" value="" />
+      <option name="extraTypeScriptOptions" value="" />
+      <option name="scriptName" value="$PROJECT_DIR$/泛型/泛型继承.ts" />
+      <option name="programParameters" value="" />
+      <option name="tsnodePackage" value="/usr/local/lib/node_modules/ts-node" />
+      <method v="2" />
+    </configuration>
+    <configuration name="剩余参数.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
+      <module name="TS" />
+      <option name="interpreterRef" value="project" />
+      <option name="interpreterOptions" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/function" />
+      <option name="tsconfigFile" value="" />
+      <option name="extraTypeScriptOptions" value="" />
+      <option name="scriptName" value="$PROJECT_DIR$/function/剩余参数.ts" />
+      <option name="programParameters" value="" />
+      <option name="tsnodePackage" value="/usr/local/lib/node_modules/ts-node" />
+      <method v="2" />
+    </configuration>
+    <configuration name="class.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
+      <module name="TS" />
+      <option name="interpreterRef" value="project" />
+      <option name="interpreterOptions" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Class" />
+      <option name="tsconfigFile" value="" />
+      <option name="extraTypeScriptOptions" value="" />
+      <option name="scriptName" value="$PROJECT_DIR$/Class/class.ts" />
+      <option name="programParameters" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo.ts (2)" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
+      <module name="TS" />
+      <option name="interpreterRef" value="project" />
+      <option name="interpreterOptions" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/Class" />
+      <option name="tsconfigFile" value="" />
+      <option name="extraTypeScriptOptions" value="" />
+      <option name="scriptName" value="$PROJECT_DIR$/Class/demo.ts" />
+      <option name="programParameters" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo.ts (3)" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
+      <module name="TS" />
+      <option name="interpreterRef" value="project" />
+      <option name="interpreterOptions" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/tsconfig" />
+      <option name="tsconfigFile" value="" />
+      <option name="extraTypeScriptOptions" value="" />
+      <option name="scriptName" value="$PROJECT_DIR$/tsconfig/demo.ts" />
+      <option name="programParameters" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/webpack_ts/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="061d5262-3f55-496b-8a4c-7e2336d21174" name="Default Changelist" comment="" />
+      <created>1607243323307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607243323307</updated>
+      <workItem from="1607243324358" duration="10764000" />
+      <workItem from="1607325489966" duration="228000" />
+      <workItem from="1607357311681" duration="315000" />
+      <workItem from="1607358906984" duration="430000" />
+      <workItem from="1607409887267" duration="671000" />
+      <workItem from="1607412755470" duration="90000" />
+      <workItem from="1607675561078" duration="7991000" />
+      <workItem from="1607877729417" duration="26000" />
+      <workItem from="1607965965007" duration="17000" />
+      <workItem from="1607968124512" duration="224000" />
+      <workItem from="1607970322211" duration="56000" />
+      <workItem from="1607973283235" duration="564000" />
+      <workItem from="1607973875841" duration="155000" />
+      <workItem from="1607974099717" duration="224000" />
+      <workItem from="1607974355962" duration="119000" />
+      <workItem from="1607974489779" duration="48000" />
+      <workItem from="1608100454361" duration="1144000" />
+      <workItem from="1608101793024" duration="886000" />
+      <workItem from="1608176502063" duration="1502000" />
+      <workItem from="1608279236641" duration="11000" />
+      <workItem from="1608281139280" duration="5857000" />
+      <workItem from="1608440137061" duration="1506000" />
+    </task>
+    <task id="LOCAL-00001" summary="更新">
+      <created>1607322406601</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607322406601</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更新">
+      <created>1607965968006</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607965968006</updated>
+    </task>
+    <task id="LOCAL-00003" summary="更新">
+      <created>1608102592191</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608102592191</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/implements/demo.ts</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
