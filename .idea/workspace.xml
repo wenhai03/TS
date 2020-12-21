@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="061d5262-3f55-496b-8a4c-7e2336d21174" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02TS_Part/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02TS_Part/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02TS_Part/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webpack_ts/src/02_多个泛型参数的函数.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack_ts/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/webpack_ts/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/src/01_类的简介.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/src/02_构造函数.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/src/03_继承.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/src/04_super.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/src/05_抽象类.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/src/06_接口.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/src/07属性的封装.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/src/08_泛型.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part1/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02TS_Part/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/02TS_Part/note.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02TS_Part/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/02TS_Part/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02TS_Part/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/02TS_Part/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02TS_Part/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/02TS_Part/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +29,8 @@
         <option value="TypeScript JSX File" />
         <option value="JavaScript File" />
         <option value="tsconfig.json" />
-        <option value="TypeScript File" />
         <option value="HTML File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -42,25 +52,28 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/02TS_Part" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/part1/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/webpack_ts/node_modules/typescript/lib" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/02TS_Part/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/part1/src" />
       <recent name="$PROJECT_DIR$/02TS_Part" />
       <recent name="$PROJECT_DIR$/01TS_REACT/config" />
       <recent name="$PROJECT_DIR$/webpack_ts/src" />
       <recent name="$PROJECT_DIR$/webpack_ts" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.dev">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TS/part1/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="默认参数.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
       <module name="TS" />
       <option name="interpreterRef" value="project" />
@@ -94,17 +107,6 @@
       <option name="scriptName" value="$PROJECT_DIR$/function/剩余参数.ts" />
       <option name="programParameters" value="" />
       <option name="tsnodePackage" value="/usr/local/lib/node_modules/ts-node" />
-      <method v="2" />
-    </configuration>
-    <configuration name="class.ts" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
-      <module name="TS" />
-      <option name="interpreterRef" value="project" />
-      <option name="interpreterOptions" value="" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/Class" />
-      <option name="tsconfigFile" value="" />
-      <option name="extraTypeScriptOptions" value="" />
-      <option name="scriptName" value="$PROJECT_DIR$/Class/class.ts" />
-      <option name="programParameters" value="" />
       <method v="2" />
     </configuration>
     <configuration name="demo.ts (2)" type="TypeScriptProgramRunner" factoryName="TypeScript" temporary="true">
@@ -141,6 +143,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="npm.dev" />
       </list>
     </recent_temporary>
@@ -174,7 +177,11 @@
       <workItem from="1608176502063" duration="1502000" />
       <workItem from="1608279236641" duration="11000" />
       <workItem from="1608281139280" duration="5857000" />
-      <workItem from="1608440137061" duration="1506000" />
+      <workItem from="1608440137061" duration="2950000" />
+      <workItem from="1608443393634" duration="705000" />
+      <workItem from="1608514010844" duration="108000" />
+      <workItem from="1608514891113" duration="933000" />
+      <workItem from="1608518153110" duration="13948000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1607322406601</created>
@@ -197,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608102592191</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="更新">
+      <created>1608441728813</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608441728813</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
